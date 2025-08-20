@@ -1,0 +1,5 @@
+O Pokémon Viewer é um aplicativo Android interativo que permite aos usuários explorar o universo Pokémon de forma prática e divertida. Com ele, você pode carregar Pokémon aleatórios ou buscar diretamente pelo ID do seu Pokémon favorito. Ao selecionar um Pokémon, o aplicativo exibe sua imagem em tamanho proporcional à tela e o seu nome centralizado, proporcionando uma experiência visual agradável e organizada.
+
+O aplicativo foi desenvolvido como um projeto colaborativo pelos integrantes: Tulio, Nycolas e Ruan, combinando conhecimentos em Kotlin, Retrofit, Coroutines e Picasso para criar uma interface fluida e responsiva. A implementação de API assíncrona permite carregar os dados de forma rápida e eficiente, garantindo que o usuário tenha acesso instantâneo às informações dos Pokémon.
+
+Este projeto demonstra a aplicação de boas práticas de desenvolvimento Android, manipulação de APIs e criação de layouts adaptáveis, sendo uma ferramenta educativa e divertida para fãs da franquia Pokémon.
